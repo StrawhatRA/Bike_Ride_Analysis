@@ -11,7 +11,7 @@ Cyclistic marketing analytics team - A team of data analysts who are responsible
 
 Cyclistic executive team - The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program
 
-Question to answer How do annual members and casual riders use Cyclistic bikes differently ?
+Question to answer: How do annual members and casual riders use Cyclistic bikes differently?
 
 Business Task: To analyze data and find the difference between annual member and casual rider habits. Make recommendations on how to convert casual riders into annual members.
 
