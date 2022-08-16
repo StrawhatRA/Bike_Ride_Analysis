@@ -19,10 +19,10 @@ Business Task: To analyze data and find the difference between annual member and
 In this step, I asked myself questions such as ‘How do annual members and casual riders use Cyclistic bikes differently?’ to guide my analysis. Lily Moreno, the director of marketing believes annual Members are much more profitable than Casual riders. As a junior data analyst working at Cyclistic, my task is to help the marketing team analyze the differences between Casual riders and Members with the goal of providing recommendations that will help convert Casual riders into annual Members to maximize profit.
 
 # Prepare
-I downloaded the dataset that is used for this case study and stored it. I was required to download data for the last 12 months. I downloaded trip data between June 2021-June 2022. You can access the datasets here. It is a public dataset provided by Motivate International Inc.
+I downloaded the dataset that is used for this case study and stored it. I was required to download data for the last 12 months. I downloaded trip data between June 2021-June 2022. You can access the datasets here. It is a public dataset provided by Motivate International Inc. (https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 # Process
-First the data was collected from https://divvy-tripdata.s3.amazonaws.com/index.html by month. 12 months of data was downloaded and stitched together using SQL (BigQuery). SQL was used to drop some unnecessary columns. The data was then cleaned, processed and visualized in R.
+12 months of data was downloaded and stitched together using SQL (BigQuery). SQL was used to drop some unnecessary columns. The data was then cleaned, Wrangling and visualized in R. Tableau was used next to create a dashboard. 
 
 
 # Analyze
