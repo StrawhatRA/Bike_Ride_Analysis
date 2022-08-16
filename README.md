@@ -30,4 +30,7 @@ I created the ride_length column to calculate the trip duration, Day_of_week to 
 
 # Share
 
+# Key Findings
+
+# Recommendations
 
