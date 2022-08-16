@@ -16,5 +16,4 @@ Question to answer How do annual members and casual riders use Cyclistic bikes d
 Business Task To analyze data and find out how annual members and casual riders use Cyclistic bikes differently then make recommendations on how to convert casual riders into annual members.
 
 # Summary
-I am using R for this analysis.
 First the data was collected from https://divvy-tripdata.s3.amazonaws.com/index.html by month. 12 months of data was downloaded and stitched together using SQL (BigQuery). SQL was used to drop some unnecessary columns. The data was then cleaned, processed and visualized in R.
