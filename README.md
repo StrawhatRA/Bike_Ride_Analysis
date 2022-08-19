@@ -1,5 +1,6 @@
 # Cyclistic Bike Share Analysis (Google Data Analyst Capstone Project)
-![bike](https://user-images.githubusercontent.com/93293695/184783363-85a40250-1fc0-4f5a-a291-5ac676ec77c8.jpg)
+![bikeshare-toronto-2020-01-min](https://user-images.githubusercontent.com/93293695/185637706-ecc78fc1-8b82-4eae-a063-6ecb4e4b581f.png)
+
 
 ## Scenario
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
