@@ -31,7 +31,7 @@ If the data will be moved, how it will be stored and what are the needed securit
 ## Process
 ![BigQ_full_join](https://user-images.githubusercontent.com/93293695/185636208-f9d930fe-676a-44b4-af8f-d6e8c6146560.PNG)
 
-I downloaded the dataset that is used for this case study and stored it. I was required to download data for the last 12 months. I downloaded trip data between June 2021-June 2022. You can access the datasets here. It is a public dataset provided by Motivate International Inc. (https://divvy-tripdata.s3.amazonaws.com/index.html). 12 months of data was downloaded and stitched together using SQL (BigQuery). SQL was used to drop some unnecessary columns. 
+I downloaded the dataset that is used for this case study and stored it. I was required to download data for the last 12 months. I downloaded trip data between June 2021-June 2022. You can access the datasets [here]([actual URL to navigate](https://divvy-tripdata.s3.amazonaws.com/index.html)). It is a public dataset provided by Motivate International Inc. 12 months of data was downloaded and stitched together using SQL (BigQuery). SQL was used to drop some unnecessary columns. 
 
 ## Analyze
 I then moved to RStudio to performe different calculations & get get additional metrics. I calculated and summarized the data using functions such as mean, median, max, and min in R. 
